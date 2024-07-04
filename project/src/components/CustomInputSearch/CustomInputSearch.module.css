@@ -1,0 +1,30 @@
+.input__box {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  border: 1px solid var(--gray);
+  overflow: hidden;
+}
+.input__box svg {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0.5rem;
+  margin: auto;
+  color: var(--gray);
+}
+
+.input__box input {
+  width: 100%;
+  border: none;
+  height: 100%;
+  padding: 0.5rem 1rem 0.5rem 2rem;
+  outline: none;
+  color: var(--black);
+  font: normal normal 600 0.8rem/1.2rem var(--font-primary);
+}
+
+.input__box input::placeholder {
+  color: var(--gray);
+  font: normal normal 600 0.8rem/1.2rem var(--font-primary);
+}

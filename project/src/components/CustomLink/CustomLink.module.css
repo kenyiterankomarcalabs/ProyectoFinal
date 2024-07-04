@@ -1,0 +1,20 @@
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  background-color: var(--white);
+  transition: 0.3s;
+  gap: 0.3rem;
+  color: var(--black);
+  width: fit-content;
+}
+.link:hover {
+  background-color: var(--shadow-soft);
+}
+.link span {
+  color: var(--black);
+  font: normal normal 600 0.8em/1.2rem var(--font-primary);
+}

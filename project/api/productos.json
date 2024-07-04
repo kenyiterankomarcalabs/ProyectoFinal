@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Café Espresso",
+    "precio": "$ 2.5",
+    "image": "api/images/cafe-expreso.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Red Bull",
+    "precio": "$ 3.99",
+    "image": "api/images/red-bull.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Jugo de Naranja",
+    "precio": "$ 2.99",
+    "image": "api/images/jugo-naranja.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Manzana Verde",
+    "precio": "$ 1.99",
+    "image": "api/images/manzana-verde.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Agua Mineral",
+    "precio": "$ 1.5",
+    "image": "api/images/agua-mineral.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Smoothie de Frutas Tropicales",
+    "precio": "$ 4.5",
+    "image": "api/images/smoothie.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Té de Hierbas",
+    "precio": "$ 2.75",
+    "image": "api/images/te-hierbas.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Cerveza Artesanal",
+    "precio": "$ 5.99",
+    "image": "api/images/cerveza.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Refresco de Cola",
+    "precio": "$ 1.25",
+    "image": "api/images/cola.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Leche de Almendras",
+    "precio": "$ 3.49",
+    "image": "api/images/almendras.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Cóctel Mojito",
+    "precio": "$ 7.99",
+    "image": "https://example.com/mojito.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Batido de Fresa",
+    "precio": "$ 4.25",
+    "image": "https://example.com/batido-fresa.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Café Latte",
+    "precio": "$ 3.75",
+    "image": "https://example.com/cafe-latte.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Energizante Monster",
+    "precio": "$ 4.99",
+    "image": "https://example.com/monster.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Zumo de Uva",
+    "precio": "$ 2.49",
+    "image": "https://example.com/zumo-uva.jpg"
+  }
+]
